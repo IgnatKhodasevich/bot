@@ -23,8 +23,8 @@ def point(event, context):
         if words[0] == "привет" or "Привет":
             send_message(event["message"]["from"]["id"], "Привет! Как тебя зовут?")
         elif words[0] == "Лиза" or "лиза" or "liza" or "Liza":
-            send_message(event["message"]["from"]["id"], "Дурацкое имя :)")
-            send_message(event["message"]["from"]["id"], "Лиза - дура! :) :) ;)")
+            send_message(event["message"]["from"]["id"], ":)")
+            send_message(event["message"]["from"]["id"], "Лиза! :) :) ;)")
 
 
 def send_message(chat_id, text):
