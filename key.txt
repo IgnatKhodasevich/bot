@@ -1,0 +1,9 @@
+Your Hash: 7b039e45580c61bed084a87d1d2e4b25
+Your String: perceptronBotHandler
+
+Bot token:
+438752112:AAFKwbIeMjzZKvbuxnVQDu3NxBUsnh9TPD8
+
+---------------
+AWS DATA
+Stage name: vm00
